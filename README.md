@@ -1,22 +1,8 @@
----
-description: Version Basic
----
-
 # Z0172CK-Tools
-
-Documentation [https://app.gitbook.com/@erik172/s/z0172ck-tools](https://app.gitbook.com/@erik172/s/z0172ck-tools)
-
-site web [https://z0172ck.me](https://z0172ck.me)
-
-{% hint style="info" %}
-Z0172CK Tools can receive Updates
-{% endhint %}
 
 ## Install Z0172CK Tools
 
 ### Install on Kali Linux
-
-[![asciicast](https://asciinema.org/a/352244.svg)](https://asciinema.org/a/352244)
 
 We must first have Python3 and PIP3
 
@@ -28,10 +14,10 @@ $ sudo apt install python3 python3-pip
 Z0172CK-Tools only works with python 3
 {% endhint %}
 
-We clone the repository from github [https://github.com/Erik172/Z0172CK-Tools](https://github.com/Erik172/Z0172CK-Tools)
+We clone the repository from github 
 
 ```bash
-$ git clone https://github.com/Erick172/Z0172CK-Tools
+$ git clone https://github.com/Transmetal/Z0172CK-Tools
 ```
 
 Install the dependencies found in the requirements.txt file
@@ -64,10 +50,10 @@ $ pkg install python nmap
 Z0172CK-Tools only works with python 3
 {% endhint %}
 
-We clone the repository from github [https://github.com/Erik172/Z0172CK-Tools](https://github.com/Erik172/Z0172CK-Tools)
+We clone the repository from github 
 
 ```bash
-$ git clone https://github.com/Erick172/Z0172CK-Tools
+$ git clone https://github.com/Transmetal/Z0172CK-Tools
 ```
 
 ```bash
