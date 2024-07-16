@@ -16,3 +16,4 @@ Flask_Login==0.4.1
 nmap==0.0.1
 python-secrets
 pyshorteners
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
